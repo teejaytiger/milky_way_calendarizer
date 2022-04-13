@@ -1,0 +1,420 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//@teejaytiger//2022 MILKY WAY CALENDAR - SOUTHWEST USA//
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220129T042700
+DTEND;VALUE=DATE-TIME:20220129T052200
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:df87ab96-19f3-40a1-b097-15b8ca3221c9
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:14:20 <br/>Moonrise:5
+ :53 <br/>Sunset:17:11 <br/>Sunrise:6:50 <br/>Illumination:5%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220205T040000
+DTEND;VALUE=DATE-TIME:20220205T051700
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:aa2e338c-4ffb-489a-b465-a704c121c0d7
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:22:21 <br/>Moonrise:1
+ 0:02 <br/>Sunset:17:18 <br/>Sunrise:6:44 <br/>Illumination:25%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220212T033200
+DTEND;VALUE=DATE-TIME:20220212T051100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:111552d3-5ee0-4d4b-a5f5-11bd75d8b4f8
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:5:01 <br/>Moonrise:13
+ :40 <br/>Sunset:17:26 <br/>Sunrise:6:37 <br/>Illumination:85%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220226T023700
+DTEND;VALUE=DATE-TIME:20220226T045500
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:5a245238-3458-45ae-963e-89ea2748302f
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:13:11 <br/>Moonrise:4
+ :37 <br/>Sunset:17:40 <br/>Sunrise:6:20 <br/>Illumination:20%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220305T020900
+DTEND;VALUE=DATE-TIME:20220305T044500
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:e86a6423-f1f7-4540-bc1a-c24b61b0184d
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:21:07 <br/>Moonrise:8
+ :27 <br/>Sunset:17:46 <br/>Sunrise:6:11 <br/>Illumination:10%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220312T014200
+DTEND;VALUE=DATE-TIME:20220312T053500
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:cdbaf6bf-2142-4250-8e06-2eef7c2d0ead
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:4:40 <br/>Moonrise:12
+ :22 <br/>Sunset:17:53 <br/>Sunrise:7.01 <br/>Illumination:75%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220326T014700
+DTEND;VALUE=DATE-TIME:20220326T051400
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:44a3073a-0414-42f2-be9d-a64a074fa5e6
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:13:09 <br/>Moonrise:4
+ :23 <br/>Sunset:19:05 <br/>Sunrise:6:40 <br/>Illumination:30%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220402T011900
+DTEND;VALUE=DATE-TIME:20220402T050200
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:588c7ffa-db52-4164-8ed5-a8e459083d1b
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:20:53 <br/>Moonrise:7
+ :55 <br/>Sunset:19:11 <br/>Sunrise:6:30 <br/>Illumination:0%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220409T005200
+DTEND;VALUE=DATE-TIME:20220409T045100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:8bf47783-0bb6-4c0d-b0b3-4bf129a66d27
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:3:17 <br/>Moonrise:12
+ :07 <br/>Sunset:19:17 <br/>Sunrise:6:20 <br/>Illumination:55%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220423T235700
+DTEND;VALUE=DATE-TIME:20220424T042800
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:7593d0d8-77af-4607-89a5-b34eb7bd0a2d
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:12:10 <br/>Moonrise:3
+ :06 <br/>Sunset:19:29 <br/>Sunrise:6:02 <br/>Illumination:45%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220430T232900
+DTEND;VALUE=DATE-TIME:20220501T041700
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:cfc4df6e-83f1-4a05-8b48-d91ad2d89074
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:19:43 <br/>Moonrise:6
+ :24 <br/>Sunset:19:35 <br/>Sunrise:5:54 <br/>Illumination:0%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220507T230200
+DTEND;VALUE=DATE-TIME:20220508T040800
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:0026c3ee-db27-42da-9ea2-063b1b055de2
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:1:52 <br/>Moonrise:10
+ :54 <br/>Sunset:19:41 <br/>Sunrise:5:47 <br/>Illumination:40%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220521T220600
+DTEND;VALUE=DATE-TIME:20220522T035100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:cc8d16e3-d5f2-4e3e-a078-245f2a919f97
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:11:11 <br/>Moonrise:1
+ :44 <br/>Sunset:19:53 <br/>Sunrise:5:36 <br/>Illumination:60%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220528T214500
+DTEND;VALUE=DATE-TIME:20220529T034500
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:8975c952-07b2-4b17-beac-506a720ad168
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:18:35 <br/>Moonrise:4
+ :57 <br/>Sunset:19:58 <br/>Sunrise:5:32 <br/>Illumination:5%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220604T215100
+DTEND;VALUE=DATE-TIME:20220605T034100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:83934e43-9f04-4ea0-aa10-77ffce0fbb92
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:0:25 <br/>Moonrise:9:
+ 45 <br/>Sunset:20:02 <br/>Sunrise:5:30 <br/>Illumination:25%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220618T215900
+DTEND;VALUE=DATE-TIME:20220619T033900
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:aadb966b-185e-42f6-ac98-607c1baf0542
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:10:07 <br/>Moonrise:0
+ :16 <br/>Sunset:20:08 <br/>Sunrise:5:30 <br/>Illumination:15%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220625T220000
+DTEND;VALUE=DATE-TIME:20220626T034100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:693786ec-0dc9-43dc-af05-7e14886b0a14
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:17:30 <br/>Moonrise:3
+ :33 <br/>Sunset:20:09 <br/>Sunrise:5:32 <br/>Illumination:10%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220702T215900
+DTEND;VALUE=DATE-TIME:20220703T034400
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:18ba2acc-a996-4a03-b16c-312bd8707fea
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:22:58 <br/>Moonrise:9
+ :38 <br/>Sunset:20:09 <br/>Sunrise:5:34 <br/>Illumination:15%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220709T215600
+DTEND;VALUE=DATE-TIME:20220710T034700
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:579dc738-4e18-4e59-9f0a-92ab4c61dd95
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:2:19 <br/>Moonrise:16
+ :04 <br/>Sunset:20:08 <br/>Sunrise:5:38 <br/>Illumination:80%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220716T215100
+DTEND;VALUE=DATE-TIME:20220717T031900
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:fafbf186-2034-48e1-8d6f-e3f1a730c2e8
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:10:09 <br/>Moonrise:2
+ 2:45 <br/>Sunset:20:05 <br/>Sunrise:5:43 <br/>Illumination:95%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220723T214400
+DTEND;VALUE=DATE-TIME:20220724T025200
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:0652dea4-1d53-454c-ac3f-f3f74d1dd631
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:16:23 <br/>Moonrise:2
+ :10 <br/>Sunset:20:01 <br/>Sunrise:5:48 <br/>Illumination:20%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220730T213600
+DTEND;VALUE=DATE-TIME:20220731T022400
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:d6ccf860-211f-4769-ad44-061badb21c97
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:21:30 <br/>Moonrise:8
+ :32 <br/>Sunset:19:55 <br/>Sunrise:5:53 <br/>Illumination:5%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220806T212600
+DTEND;VALUE=DATE-TIME:20220807T015600
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:09ac5117-3c3a-4968-894f-55bbb7f93384
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:0:56 <br/>Moonrise:15
+ :00 <br/>Sunset:19:48 <br/>Sunrise:5:59 <br/>Illumination:55%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220820T210500
+DTEND;VALUE=DATE-TIME:20220821T010200
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:75b71315-7efe-4090-8b26-824e41649870
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:15:15 <br/>Moonrise:0
+ :48 <br/>Sunset:19:32 <br/>Sunrise:6:10 <br/>Illumination:35%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photograph the Milky Way!
+DTSTART;VALUE=DATE-TIME:20220827T205300
+DTEND;VALUE=DATE-TIME:20220828T003400
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:cf430b65-cbf9-4024-bfc7-1cf544b5f22a
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:20:00 <br/>Moonrise:7
+ :27 <br/>Sunset:19:22 <br/>Sunrise:6:16 <br/>Illumination:0%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220903T204100
+DTEND;VALUE=DATE-TIME:20220904T000700
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:734b61e1-83fc-435c-8954-6a9b3e74d7fa
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:23:39 <br/>Moonrise:1
+ 5:10 <br/>Sunset:19:12 <br/>Sunrise:6:21 <br/>Illumination:50%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220917T201800
+DTEND;VALUE=DATE-TIME:20220917T231100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:80b6c25e-33db-436d-8eba-463e1639fee6
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:14:56 <br/>Moonrise:2
+ 3:28 <br/>Sunset:18:52 <br/>Sunrise:6:32 <br/>Illumination:50%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20220924T200700
+DTEND;VALUE=DATE-TIME:20220924T224400
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:99b90370-38ec-4244-b89a-f2d19c009d3b
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:18:28 <br/>Moonrise:6
+ :17 <br/>Sunset:18:41 <br/>Sunrise:6:38 <br/>Illumination:0%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20221015T193700
+DTEND;VALUE=DATE-TIME:20221015T212200
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:87a3f399-1735-4285-8698-47e9d93971bd
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:13:39 <br/>Moonrise:2
+ 2:08 <br/>Sunset:18:11 <br/>Sunrise:6:56 <br/>Illumination:15%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20221022T192800
+DTEND;VALUE=DATE-TIME:20221022T205400
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:b4e57cb8-6f10-4467-be6e-1ed4cb009022
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:16:55 <br/>Moonrise:5
+ :05 <br/>Sunset:18:02 <br/>Sunrise:7:02 <br/>Illumination:10%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20221029T192100
+DTEND;VALUE=DATE-TIME:20221029T202600
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:a286f30c-5f28-4fdb-8f35-4ea095dcfb14
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:21:23 <br/>Moonrise:1
+ 3:02 <br/>Sunset:17:54 <br/>Sunrise:7:09 <br/>Illumination:25%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milky Way Viewing!
+DTSTART;VALUE=DATE-TIME:20221112T180900
+DTEND;VALUE=DATE-TIME:20221112T183100
+DTSTAMP;VALUE=DATE-TIME:20220413T104907Z
+UID:b956057a-f87a-44d0-bfb5-a704632a86e4
+DESCRIPTION:No Galactic center Viewing <br/> Moonset:11:18 <br/>Moonrise:1
+ 9:51 <br/>Sunset:16:41 <br/>Sunrise:6:23 <br/>Illumination:85%
+GEO:3.0;8.0
+LOCATION:https://www.google.com/maps/place/Ice+House+Observation+Point+2/@
+ 38.7968588\,-120.412539\,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b2
+ 07741fda9ab!8m2!3d38.7968579!4d-120.4103521
+END:VEVENT
+END:VCALENDAR
