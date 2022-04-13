@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import dateutil.parser
 import uuid
 
-location = "https://www.google.com/maps/place/Ice+House+Observation+Point+2/@38.7968588,-120.412539,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b207741fda9ab!8m2!3d38.7968579!4d-120.4103521"
+location = "https://www.google.com/maps/place/Trout+Creek+Meadow+And+Trails/@46.0009288,-121.5513514,14.94z/data=!4m13!1m7!3m6!1s0x5496678335de9e69:0x6f46feb695c9333d!2sTrout+Lake,+WA+98650!3b1!8m2!3d45.9973427!4d-121.5281369!3m4!1s0x5496673f1acc68a3:0x7299f6a55750d756!8m2!3d46.0077175!4d-121.550661"
 
 class CEvent:
 
@@ -36,7 +36,9 @@ class CEvent:
         mwstart = dateutil.parser.parse("{} {}".format(self.date, self.mwstart))
         delta = self.mwhours.split(":")
         gcdelta = int(self.gchours.split(":")[0])
-        if (gcdelta>=3): summary="Photograph the Milky Way!"
+        if (gcdelta>=3): 
+            summary="Photograph the Milky Way!"
+            type = "gc"
         delta = timedelta(hours=int(delta[0]), minutes=int(delta[1]))
         #mwend = dateutil.parser.parse("{} {}".format(self.date, self.mwend))
         mwend = mwstart + delta
