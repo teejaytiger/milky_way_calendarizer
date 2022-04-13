@@ -6,6 +6,8 @@ from datetime import datetime, timedelta
 import dateutil.parser
 import uuid
 
+location = "https://www.google.com/maps/place/Ice+House+Observation+Point+2/@38.7968588,-120.412539,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b207741fda9ab!8m2!3d38.7968579!4d-120.4103521"
+
 class CEvent:
 
     def __init__(self, row, type="mw"):
@@ -46,7 +48,7 @@ class CEvent:
         event.add('dtend', mwend)
         event.add('dtstamp', datetime.now())
         event.add('geo', "38.796846, -120.410442")
-        event.add('location', "https://www.google.com/maps/place/Ice+House+Observation+Point+2/@38.7968588,-120.412539,17.01z/data=!4m5!3m4!1s0x809a3b46babfc661:0xbd9b207741fda9ab!8m2!3d38.7968579!4d-120.4103521")
+        event.add('location', location)
         if type=="gc": description = "Galactic Center from {} to {} at {}".format(self.gcstart,self.gcend,self.elevation)
         if type=="mw": description = "No Galactic center Viewing"
         event.add('description', "{} <br/> Moonset:{} <br/>Moonrise:{} <br/>Sunset:{} <br/>Sunrise:{} <br/>Illumination:{}".format(
