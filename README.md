@@ -1,6 +1,6 @@
 ## Milky Way Calendarizer
 
-Turns the milky way photography guide at [Capture The Atlas](capturetheatlas.com) into an ICS calendar! Here's how it does it:
+Turns the milky way photography guide at [Capture The Atlas](https://capturetheatlas.com) into an ICS calendar! Here's how it does it:
 
 1. Converts the PDF into an image using `pdf2image` and an installation of `Poppler`, which must be installed and linked in `conv2img.py` (shortcut is to unpack poppler to mirror `C:\Program Files (x86)\poppler\Library\bin` where it's already expected)
 2. Crop the output `image0.png` with `cv2` to size and do some light preprocessing before OCR
@@ -28,7 +28,7 @@ Modify `location` on line 9 of `img2ics.py` to reflect the location of your clos
 > Note: You also don't have to put a URL in. You can put pretty much anything you want, like "backyard" or geo-coordinates if you're a try-hard.
 
 
-Modify `imagepath = "36deg_MW.pdf"` on line 2 of `conv2img.py` to reflect the path of the PDF reflecting the chart covering your latitude from [Capture The Atlas](capturetheatlas.com) and execute:
+Modify `imagepath = "36deg_MW.pdf"` on line 2 of `conv2img.py` to reflect the path of the PDF reflecting the chart covering your latitude from [Capture The Atlas](https://capturetheatlas.com) and execute:
 
 ```
 python conv2img.py
