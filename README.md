@@ -28,7 +28,7 @@ Modify `location` on line 9 of `img2ics.py` to reflect the location of your clos
 > Note: You also don't have to put a URL in. You can put pretty much anything you want, like "backyard" or geo-coordinates if you're a try-hard.
 
 
-Modify `imagepath = "36deg_MW.pdf"` on line 2 of `conv2img.py` to reflect the path of the PDF reflecting the chart covering your lattitude from [Capture The Atlas](capturetheatlas.com) and execute:
+Modify `imagepath = "36deg_MW.pdf"` on line 2 of `conv2img.py` to reflect the path of the PDF reflecting the chart covering your latitude from [Capture The Atlas](capturetheatlas.com) and execute:
 
 ```
 python conv2img.py
@@ -40,3 +40,5 @@ There should be three created files:
 * `cropped.png` (a cropped image used to improve OCR accuracy)
 * `image0.png` (the image generated after converting the PDF)
 * A file with the `.ics` extension. This is the file that can be imported into your calendar!
+
+> Note: I left my latitude in just so you can see an example. You can delete it
